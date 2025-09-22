@@ -1,4 +1,4 @@
-# configure-vm
+# 
 
 ![image](https://github.com/user-attachments/assets/825f97d3-91e6-4be2-8faa-86842daaa297)
 <h1>Configuring a virtual machine and remote desktop (Azure)</h1>
